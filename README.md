@@ -17,3 +17,5 @@ Table of Contents
   Lab-6 : Understanding sets in Python
   
   Lab-7 : Learning to perform various operations using Functions
+
+  Lab-8: UML, Object-Oriented Programming
