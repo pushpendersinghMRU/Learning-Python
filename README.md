@@ -19,3 +19,5 @@ Table of Contents
   Lab-7 : Learning to perform various operations using Functions
 
   Lab-8: UML, Object-Oriented Programming
+
+  Lab-9: Class inheritance & Method overriding 
